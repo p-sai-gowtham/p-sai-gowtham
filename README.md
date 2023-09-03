@@ -1,16 +1,37 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm P-SAI-GOWTHAM</h1>
+<h3 align="center">Hello, I'm Sai Gowtham, a highly motivated and adaptable individual with a passion for technology and creativity. I thrive on the challenges of competitive programming, the artistry of web development, and the innovation of iOS app development. My programming journey has been built on a solid foundation in languages like C, C++, and Python, giving me the confidence to tackle a wide range of technical challenges. Alongside my technical skills, I bring a creative edge to my work, thanks to my proficiency in tools like Canva and Figma. This combination allows me to consistently deliver high-quality solutions that blend functionality with design excellence. Beyond the world of coding, I find inspiration and balance through my hobbies. As an avid anime fan, I'm always on the lookout for new series and characters to explore and discuss. Anime isn't just entertainment for me; it's a wellspring of creativity and storytelling. Additionally, I'm passionate about staying at the forefront of technology trends, ensuring that my skills are always up-to-date in this rapidly evolving field. These hobbies not only enrich my life but also enhance my problem-solving abilities and creativity in my technical work. I believe that a well-rounded approach to life is key to success and fulfillment. Thank you for taking the time to get to know me. I'm excited to continue my journey in technology, bringing a unique blend of technical expertise and creative flair to everything I do.</h3>
 
-<!--
-**p-sai-gowtham/p-sai-gowtham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=p-sai-gowtham&label=Profile%20views&color=0e75b6&style=flat" alt="p-sai-gowtham" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-sai-gowtham" alt="p-sai-gowtham" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Farmbuddy2.0](https://github.com/p-sai-gowtham/Farm-Buddy-2.0)
+
+- 🌱 I’m currently learning **Firebase, MongoDB, express, Node, React**
+
+- 👯 I’m looking to collaborate on [Olympic Games Oversite](https://github.com/AlgorithmAssassins/pogo)
+
+- 🤝 I’m looking for help with [MedEase](https://github.com/eccentrics7/MedEase-The-online-Telemedicine-Solution)
+
+- 💬 Ask me about **HTML5, CSS3, JS, Python, C, Figma, Canva, Bootstrap**
+
+- 📫 How to reach me **puvvulasaigowtham@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sai gowtham puvvula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai gowtham puvvula" height="30" width="40" /></a>
+<a href="https://fb.com/puvvula sai gowtham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="puvvula sai gowtham" height="30" width="40" /></a>
+<a href="https://instagram.com/p.sai_gowtham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.sai_gowtham" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sai_gowtham106" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sai_gowtham106" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@puvvulasaigowth1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@puvvulasaigowth1" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/puvvulasaigowtham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="puvvulasaigowtham" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=p-sai-gowtham&show_icons=true&locale=en&layout=compact" alt="p-sai-gowtham" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p-sai-gowtham&show_icons=true&locale=en" alt="p-sai-gowtham" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=p-sai-gowtham&" alt="p-sai-gowtham" /></p>
