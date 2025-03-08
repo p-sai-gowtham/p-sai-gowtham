@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm P-SAI-GOWTHAM</h1>
-<h3 align="center">Passionate Developer.</h3>
+<h3 align="center">A passionate developer solving real-world problems using technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=p-sai-gowtham&label=Profile%20views&color=0e75b6&style=flat" alt="p-sai-gowtham" /> </p>
+# 💫 About Me:
+- 🔭 I’m currently working on Django Projects
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-sai-gowtham" alt="p-sai-gowtham" /></a> </p>
+- 🌱 I’m currently learning **AWS, Azure, Docker, Andriod Development**
 
-- 🔭 I’m currently working on [Farmbuddy2.0](https://github.com/p-sai-gowtham/Farm-Buddy-2.0)
+- 👯 I’m looking to collaborate on Web Development Projects
 
-- 🌱 I’m currently learning **Firebase, MongoDB, express, Node, React**
-
-- 👯 I’m looking to collaborate on [Olympic Games Oversite](https://github.com/AlgorithmAssassins/pogo)
-
-- 🤝 I’m looking for help with [MedEase](https://github.com/eccentrics7/MedEase-The-online-Telemedicine-Solution)
-
-- 💬 Ask me about **HTML5, CSS3, JS, Python, C, Figma, Canva, Bootstrap**
+- 💬 Ask me about **Django, MERN, REST API**
 
 - 📫 How to reach me **puvvulasaigowtham@gmail.com**
 
@@ -22,9 +17,6 @@
 <a href="https://linkedin.com/in/sai gowtham puvvula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai gowtham puvvula" height="30" width="40" /></a>
 <a href="https://fb.com/puvvula sai gowtham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="puvvula sai gowtham" height="30" width="40" /></a>
 <a href="https://instagram.com/p.sai_gowtham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.sai_gowtham" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sai_gowtham106" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sai_gowtham106" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@puvvulasaigowth1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@puvvulasaigowth1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/puvvulasaigowtham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="puvvulasaigowtham" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p-sai-gowtham&show_icons=true&locale=en" alt="p-sai-gowtham" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=p-sai-gowtham&" alt="p-sai-gowtham" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-sai-gowtham" alt="p-sai-gowtham" /></a> </p>
